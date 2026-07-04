@@ -122,4 +122,4 @@ survey-builder/
 
 ## Deployment Link
 
-_Add your live deployment URL here after deploying (Vercel/Netlify/etc.)._
+https://survey-campaign-builder-chi.vercel.app
